@@ -20,4 +20,4 @@ A minimal and user-friendly weather card interface showing temperature, weather 
 
 
 ## Prototype Link
-[View Figma Prototype](https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2131-493&t=izLrkGfT4DHbqEt8-1
+[View Figma Prototype](https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2512-1483&t=XcKtfWChuqYn01GF-1
